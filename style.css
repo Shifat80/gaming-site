@@ -134,7 +134,6 @@ header{
     position: absolute;
     right: 20px;
     bottom: 30px;
-
 }
 
 .next-btn
@@ -431,7 +430,7 @@ header{
     background-color: #07070734;
     backdrop-filter: blur(10px);
     height: 100px;
-    margin-top: 20px;
+    margin-top: 90px;
     margin-right: 30px;
 }
 
@@ -576,6 +575,10 @@ header{
     .contact-section p{
         font-size: 15px;
     }
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
     .footer p{
         font-size: 12px;
     }
@@ -606,14 +609,15 @@ header{
         object-fit: cover;
     }
     .contact-section .img1{
-        height: 300px;
+        height: 110px;
     }
     .contact-section .img2{
-        height: 150px;
+        height: 70px;
     }
     .contact-section .img3{
-        height: 200px;
-        width: 200px;
+        /* display: none; */
+        height: 100px;
+        width: 100px;
     }
     .contact-section p{
         font-size: 12px;
