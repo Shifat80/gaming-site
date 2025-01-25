@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 body{
+    font-family: 'Bangers', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #000000;
@@ -7,7 +10,7 @@ body{
 
 
 .container{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Bangers', sans-serif;
     color: white;
     display: flex;
     flex-direction: column;
@@ -93,7 +96,8 @@ header{
 
 .hero-info h1{
     font-size: 120px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: 'Bangers', sans-serif;
     font-weight: 900;
     margin-bottom: 20px;
     font-style: normal;
@@ -124,7 +128,8 @@ header{
 
 .gaming-text{
     font-size: 120px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: 'Bangers', sans-serif;
     margin: 0;
     position: absolute;
     right: 20px;
@@ -198,7 +203,8 @@ header{
     margin-bottom: 0;
 }
 .about-section h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: 'Bangers', sans-serif;
     font-size: 100px;
     font-weight: 900;
     max-width: 1150px;
@@ -277,7 +283,8 @@ header{
     margin: 0 ;
     top: 10px;
     left: 5%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: 'Bangers', sans-serif;
     font-size: 60px;
     z-index: 1;
     background: linear-gradient(to right,#4acfee,#53f8c9,#02d79a,#6070fd,#0099ff,#4acfee);
@@ -384,7 +391,8 @@ header{
 }
 
 .contact-section h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: 'Bangers', sans-serif;
     font-size: 70px;
     align-items: center;
     font-weight: 550px;
